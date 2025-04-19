@@ -117,12 +117,6 @@ Consulte nosso [Guia de Contribuição](CONTRIBUTING.md) para mais detalhes.
 - [ ] Sistema de achievements
 - [ ] Integração com redes sociais
 
-## 📫 Contato
-
-- Site: [mestredosjogos.com.br](https://mestredosjogos.com.br)
-- Email: contato@mestredosjogos.com.br
-- WhatsApp: (34) 99167-2554
-- Endereço: Rua João Balbino, 537
 
 ## 📄 Licença
 
