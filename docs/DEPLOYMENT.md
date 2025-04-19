@@ -1,4 +1,31 @@
-# 🚀 Guia de Deployment
+# 🚀 Deployment e DevOps
+
+## 🔧 Stack de Deployment
+
+### Frontend
+- **Hosting**: Firebase Hosting
+- **CI/CD**: GitHub Actions
+- **Build**: Angular CLI
+- **Testes**: Jasmine + Karma
+- **Lint**: ESLint + Prettier
+
+### Backend
+- **Cloud**: Firebase Cloud Functions
+- **CI/CD**: GitHub Actions
+- **Build**: Maven
+- **Testes**: JUnit + Mockito
+- **Lint**: Checkstyle
+
+### Banco de Dados
+- **Database**: Firebase Realtime Database
+- **Storage**: Firebase Cloud Storage
+- **Backup**: Firebase Export/Import
+
+### Monitoramento
+- **Analytics**: Firebase Analytics
+- **Crash Reports**: Firebase Crashlytics
+- **Performance**: Firebase Performance Monitoring
+- **Logs**: Firebase Cloud Logging
 
 ## Ambientes
 

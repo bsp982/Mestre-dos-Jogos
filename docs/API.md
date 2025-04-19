@@ -1,5 +1,14 @@
 # 🔌 Documentação da API
 
+## 🔧 Tecnologias
+
+- **Framework**: Spring Boot 3.2
+- **Documentação**: SpringDoc OpenAPI (Swagger)
+- **Autenticação**: Firebase Admin SDK
+- **Validação**: Spring Validation
+- **Serialização**: Jackson
+- **Testes**: JUnit + Mockito
+
 ## Visão Geral
 API REST do sistema Mestre dos Jogos, desenvolvida com Spring Boot.
 

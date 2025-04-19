@@ -1,4 +1,15 @@
-# 🎨 Guia de UI/UX
+# 🎨 UI/UX Design
+
+## 🎯 Princípios de Design
+
+### Design System
+- **Framework UI**: Angular Material
+- **CSS Framework**: Tailwind CSS
+- **Ícones**: Material Icons
+- **Tipografia**: Google Fonts
+- **Cores**: Material Design Color System
+- **Componentes**: Angular Material Components
+- **Animações**: Angular Animations
 
 ## Design System
 

@@ -1,4 +1,45 @@
-# 👩‍💻 Guia de Desenvolvimento
+# 💻 Guia de Desenvolvimento
+
+## 🔧 Stack de Desenvolvimento
+
+### Frontend
+- **IDE**: VS Code
+  - Extensões:
+    - Angular Language Service
+    - Tailwind CSS IntelliSense
+    - Material Icon Theme
+    - ESLint
+    - Prettier
+- **Ferramentas**:
+  - Angular CLI
+  - Node.js
+  - npm
+  - Chrome DevTools
+
+### Backend
+- **IDE**: IntelliJ IDEA
+  - Extensões:
+    - Spring Boot
+    - Java
+    - Lombok
+    - Checkstyle
+- **Ferramentas**:
+  - JDK 21
+  - Maven
+  - Postman
+  - Firebase CLI
+
+### Banco de Dados
+- **Ferramentas**:
+  - Firebase Console
+  - Firebase Emulator
+  - Firebase CLI
+
+### Versionamento
+- **Git**:
+  - Conventional Commits
+  - Git Flow
+  - GitHub Actions
 
 ## Ambiente de Desenvolvimento
 

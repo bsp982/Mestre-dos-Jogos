@@ -7,33 +7,33 @@ O Mestre dos Jogos é uma plataforma de aluguel de jogos de tabuleiro construíd
 ## 🔧 Stack Tecnológica
 
 ### Frontend
-- **Framework**: Next.js 14 com App Router
-- **Linguagem**: TypeScript
-- **Estilização**: TailwindCSS + Shadcn/UI
-- **Gerenciamento de Estado**: Zustand
-- **Formulários**: React Hook Form + Zod
-- **Requisições**: TanStack Query (React Query)
-- **Autenticação**: NextAuth.js
-- **Testes**: Jest + React Testing Library
-- **Build Tool**: Turborepo
+- **Framework**: Angular 18 (standalone)
+- **UI/UX**: Angular Material + Tailwind CSS
+- **Gerenciamento de Estado**: NgRx
+- **Formulários**: Reactive Forms
+- **Requisições**: HttpClient
+- **Autenticação**: Firebase Authentication
+- **Testes**: Jasmine + Karma
+- **Build Tool**: Angular CLI
 
 ### Backend
-- **Framework**: NestJS
-- **Linguagem**: TypeScript
-- **Banco de Dados**: PostgreSQL
-- **ORM**: Prisma
-- **Cache**: Redis
-- **Mensageria**: Apache Kafka
-- **Testes**: Jest
-- **Documentação**: Swagger/OpenAPI
+- **Framework**: Spring Boot 3.2
+- **Linguagem**: Java 21
+- **Banco de Dados**: Firebase Realtime Database
+- **Storage**: Firebase Cloud Storage
+- **Autenticação**: Firebase Admin SDK
+- **Documentação**: SpringDoc OpenAPI (Swagger)
+- **Testes**: JUnit + Mockito
 
 ### Infraestrutura
-- **Cloud**: AWS
-- **Containers**: Docker + Kubernetes
+- **Cloud**: Firebase
+  - Authentication
+  - Realtime Database
+  - Cloud Storage
+  - Cloud Messaging
 - **CI/CD**: GitHub Actions
-- **Monitoramento**: Datadog
-- **Logs**: ELK Stack
-- **CDN**: Cloudflare
+- **Monitoramento**: Firebase Analytics
+- **Logs**: Firebase Crashlytics
 
 ## 🏛️ Arquitetura
 
